@@ -6,6 +6,8 @@
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF)
 ![CI](https://github.com/asad110abbas/react-analytics-ui/actions/workflows/ci.yml/badge.svg)
 
+> 🌌 Part of **[BRIHA AI World](https://github.com/asad110abbas)**, the AI-driven portfolio of Syed Asad Abbas.
+
 A responsive **web analytics dashboard** built with React, TypeScript and Recharts. It shows traffic, conversions
 and revenue, with period-over-period comparison, source filters, a 7-day moving average, and automatic dark mode.
 
